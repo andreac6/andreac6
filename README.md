@@ -25,13 +25,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andreac6.andreac6&"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
